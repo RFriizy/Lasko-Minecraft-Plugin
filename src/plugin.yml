@@ -1,0 +1,19 @@
+api-version: 1.17
+name: Lasko
+version: beta-1.3.9
+authors: [Evcraft]
+main: com.evcraft.laskoplugin.main
+description: The Ultimate Plugin Custom made. Its still in Dev mode so please wait!
+commands:
+  fly:
+    description: Makes you able to fly
+    usage: /<command>
+  heal:
+    description: Heals you
+    usage: /<command>
+  god:
+    description: Makes you invincible 
+    usage: /<command>
+  feed:
+    description: Yuum!
+    usage: /<command>
